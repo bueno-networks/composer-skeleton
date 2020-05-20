@@ -34,12 +34,11 @@ Antes de enviar um pull request:
 
 Os requisitos para a produção do código-fonte são listados a seguir:
 
-- **[PSR-2 Coding Standard] (https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)**. A maneira mais fácil de aplicar as convenções é instalar o [PHP Code Sniffer] (http://pear.php.net/package/PHP_CodeSniffer).
-- **Adicione testes!** - Seu patch não será aceito se não tiver testes.
-- **Documente qualquer mudança de comportamento** - Verifique se o `readme.md` e qualquer outra documentação relevante são mantidos atualizados.
-- **Considere nosso ciclo de lançamento** - Tentamos seguir o [SemVer v2.0.0] (http://semver.org/). Quebrar APIs públicas aleatoriamente não é uma opção.
-- **Uma solicitação de recebimento por recurso** - Se você quiser fazer mais de uma coisa, envie vários pull requests.
-- **Enviar histórico coerente** - Verifique se cada confirmação individual em sua pull request é 
-  significativa. Se você tiver que fazer várias confirmações intermediárias durante o desenvolvimento, por favor [edite-as] (http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) antes de enviar.
-  
+- [PSR-2 Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md). A maneira mais fácil de aplicar as convenções é instalar o [PHP Code Sniffer](http://pear.php.net/package/PHP_CodeSniffer).
+- **Adicione testes!** Seu patch não será aceito se não tiver testes.
+- **Documente qualquer mudança de comportamento**. Verifique se o `readme.md` e qualquer outra documentação relevante são mantidos atualizados.
+- **Considere nosso ciclo de lançamento**. Tentamos seguir o [SemVer v2.0.0](http://semver.org/). Quebrar APIs públicas aleatoriamente não é uma opção.
+- **Uma solicitação de recebimento por recurso**. Se você quiser fazer mais de uma coisa, envie vários pull requests.
+- **Enviar histórico coerente**. Verifique se cada confirmação individual em sua pull request é significativa. Se você tiver que fazer várias confirmações intermediárias durante o desenvolvimento, por favor [edite-as](http://www.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages) antes de enviar.
+
 **Boa codificação!**
